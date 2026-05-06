@@ -3,4 +3,3 @@
 ![n8n Workflow](C:\Users\gupta\OneDrive\Desktop\New folder\n8n_workflow.png)
 ![Power BI](C:\Users\gupta\OneDrive\Desktop\New folder\power_bi.png)
 ![Email Notification](C:\Users\gupta\OneDrive\Desktop\New folder\email_notification.png)
-![Google Form](screenshots/google_form.png)
